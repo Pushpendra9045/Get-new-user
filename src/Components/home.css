@@ -1,0 +1,17 @@
+.home-left,.home-right{
+    background: #000000; 
+    background: -webkit-linear-gradient(to right, #434343, #000000);
+    background: linear-gradient(to right, #434343, #000000); 
+}
+
+.Home-container{
+    background: #12c2e9;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #f64f59, #c471ed, #12c2e9);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #f64f59, #c471ed, #12c2e9); 
+}
+.details-1{
+    
+    margin: 10px;
+    padding: 20px;
+    width: 90%;
+}
